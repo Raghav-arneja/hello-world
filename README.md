@@ -1,7 +1,6 @@
 # How to run groupAE Assignment 1 Agent's code -
-
-#########################################
-for running the code in the pommerman just follow the steps stated below:-
+The package groupAE contains 3 files which are implementation of MCTS alorithm.
+For running the code in the pommerman game just follow the steps stated below:-
 
 - ALL the Files that are edited are in the pakage groupAE 
 - Just Copy the Package in the players folder in the pommerman game.
